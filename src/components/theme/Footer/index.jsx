@@ -7,15 +7,19 @@ export const Footer = () => (
   <Wrapper>
     <Flex as={Container}>
       <Details>
-        <h2>John Doe</h2>
+        <h2>Edmond Ma</h2>
         <span>
-          © All rights are reserved | {new Date().getFullYear()} | Made with{' '}
+          © All rights are reserved | {new Date().getFullYear()} | Developed with{' '}
           <span aria-label="love" role="img">
             💖
           </span>{' '}
+          &{' '}
+          <span aria-label="tea" role="img">
+            🍵
+          </span>{' '}
           by{' '}
-          <a href="https://smakosh.com/?ref=portfolio-dev" rel="noopener noreferrer" target="_blank">
-            Smakosh
+          <a href="https://github.com/edjunma" rel="noopener noreferrer" target="_blank">
+            @edjunma
           </a>
         </span>
       </Details>
