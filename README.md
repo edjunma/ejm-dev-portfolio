@@ -1,6 +1,7 @@
 # [edjunma.dev](https://edjunma.dev)
 
 Portfolio of Edmond Ma 🚀
+Inspired by - https://github.com/smakosh/gatsby-portfolio-dev
 
 ## Features
 
