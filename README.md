@@ -61,19 +61,14 @@ SITE_RECAPTCHA_SECRET=xxxxx
 
 I highly recommend you check this [repository](https://github.com/imorente/gatsby-netlify-form-example) for more details about the Google Recaptcha and Netlify forms
 
-## Installing
+## Installing & Starting 
 
 Installing the dependencies
 
 ```bash
-npm install
+yarn && yarn start
 ```
 
-## Start the dev server
-
-```bash
-npm start
-```
 ### Clean the cache
 
 This removes the `.cache/` & `public/` folders
